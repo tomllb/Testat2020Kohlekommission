@@ -8,9 +8,9 @@ duration: definiert einen Zeitraum, in dem die Beziehung zwischen zwei Knoten st
 
 Nodelist:
 
-id: eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.  
-name: Name oder Bezeichnung des Knotens
-sex: Geschlecht: 1=Männlich, 2=Weiblich, 3=Divers
+id: eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.; 
+name: Name oder Bezeichnung des Knotens;
+sex: Geschlecht: 1=Männlich, 2=Weiblich, 3=Divers;
 age: Alter der Akteure: 1=30-40, 2=41-50, 3=51-60, 4=Über 61
 representation: Funktion innerhalb der Kommission: 1=Politik, 2=Wirtschaft, 3=Gewerkschaft, 4=Umwelt, 5=Regionen, 6=Wissenschaft,
 type: Unterscheidung zwischen Akteur, Organisation oder Event: 1=Akteur, 2=Organisation

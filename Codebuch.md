@@ -6,7 +6,7 @@ from: definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodel
 to: definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc.  <p>
 duration: definiert einen Zeitraum, in dem die Beziehung zwischen zwei Knoten stattgefunden hat oder beobachtet wurde. <p>
 
-<h2 color="green"> Nodelist: </h2>
+<h2 color="#000080"> Nodelist: </h2>
 
 id: eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird. <p>
 name: Name oder Bezeichnung des Knotens <p>

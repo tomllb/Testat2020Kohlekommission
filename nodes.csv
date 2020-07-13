@@ -1,0 +1,68 @@
+id,name,sex,age,representation,type,position,state,party
+Matthias,Mattthias Platzeck,1,4,1,0,1,5,6
+Ronald,Ronald Pofalla,1,4,1,0,1,10,1
+Barbara,Barbara Praetorius,2,3,4,0,1,4,NA
+Stanislaw,Stanislaw Tillich,1,4,1,0,1,13,1
+Gerda,Gerda Hasselfeldt,2,4,1,0,2,3,1
+Steffen,Steffen Kampeter,1,3,2,0,2,10,1
+Stefan,Stefan Kapferer,1,3,2,0,2,2,2
+Dieter,Dieter Kempf,1,4,2,0,2,3,NA
+Claudia,Claudia Nemat,2,3,2,0,2,10,NA
+Katherina,Katherina Reiche,2,3,2,0,2,5,1
+Gunda,Gunda Röstel,2,3,2,0,2,13,3
+Eric,Eric Schweitzer,1,3,2,0,2,4,2
+Antje,Antje Grothus,2,3,5,0,2,11,NA
+Hannelore,Hannelore Wodtke,2,4,5,0,2,13,1
+Christine,Christine Herntier,2,4,5,0,2,5,7
+Michael,Michael Kreuzberg,1,4,5,0,2,10,1
+Reiner,Reiner Priggen,1,4,5,0,2,10,3
+MichaelV,Michael Vassiliadis,1,3,3,0,2,10,6
+Andreas,Andreas Scheidt,1,3,3,0,2,10,6
+StefanK,Stefan Körzell,1,3,3,0,2,1,6
+Martin,Martin Kaiser,1,3,4,0,2,7,6
+Hubert,Hubert Weiger,1,4,4,0,2,3,NA
+Kai,Kai Niebert,1,1,4,0,2,9,NA
+Jutta,Jutta Allmendinger,2,4,6,0,2,4,NA
+Felix,Felix Matthes,1,3,6,0,2,4,NA
+HansJoachim,Hans Joachim Schellnhuber,1,4,6,0,2,5,NA
+Annekathrin,Annekathrin Niebuhr,2,3,6,0,2,15,NA
+Ralf,Ralf Wehrspohrn,1,2,6,0,2,13,NA
+AndreasLä,Andreas Lämmel,1,3,2,0,3,13,1
+AndreasL,Andreas Lenz,1,1,2,0,3,3,1
+MatthiasM,Matthias Miersch,1,2,4,0,3,9,6
+SPD,Sozial Demokratische Partei,NA,NA,NA,1,NA,NA,NA
+DB,Deutsche Bahn,NA,NA,NA,1,NA,NA,NA
+CDU,Christlich Demokratische Union,NA,NA,NA,1,NA,NA,NA
+TAE,Thinktanks Agora Energiewende,NA,NA,NA,1,NA,NA,NA
+DRK,Deutsches Rotes Kreuz,NA,NA,NA,1,NA,NA,NA
+CSU,Christlich Soziale Union,NA,NA,NA,1,NA,NA,NA
+BDA,Bundesvereinigung Deutscher Arbeitgeberverbände,NA,NA,NA,1,NA,NA,NA
+BDEW,Bundesverbands Energie- und Wasserwirtschaft,NA,NA,NA,1,NA,NA,NA
+FDP,Freie Demokratische Partei,NA,NA,NA,1,NA,NA,NA
+BDI,Bundesverband Deutsche Industrie,NA,NA,NA,1,NA,NA,NA
+TLK,Telekom,NA,NA,NA,1,NA,NA,NA
+MCK,Unternehmensberatung McKinsey,NA,NA,NA,1,NA,NA,NA
+VKU,Verband Kommunaler Unternehmen,NA,NA,NA,1,NA,NA,NA
+SED,Stadtentwässerung Dresden,NA,NA,NA,1,NA,NA,NA
+ENBW,Energiekonzern EnBW,NA,NA,NA,1,NA,NA,NA
+GRÜ,Die Grünen,NA,NA,NA,1,NA,NA,NA
+DIHT,Deutsche Industrie- und Handelskammer,NA,NA,NA,1,NA,NA,NA
+ALBA,Entsorgungskonzern Alba,NA,NA,NA,1,NA,NA,NA
+ST,Spremberger Tuche,NA,NA,NA,1,NA,NA,NA
+IGBCE,"Industriegewerkschaft Bergbau, Chemie, Energie",NA,NA,NA,1,NA,NA,NA
+VERDI,Dienstleidungsgewerkschaft Verdie,NA,NA,NA,1,NA,NA,NA
+EON,Eon,NA,NA,NA,1,NA,NA,NA
+DGB,Deutscher Gewerkschaftsbund,NA,NA,NA,1,NA,NA,NA
+GRP,Greenpeace,NA,NA,NA,1,NA,NA,NA
+BUND,Bund Umwelt und Naturschutz Deutschland,NA,NA,NA,1,NA,NA,NA
+DNR,Dachverband Deutscher Naturschutzring,NA,NA,NA,1,NA,NA,NA
+WZB,Wissenschaftszenntrum Berlin für Sozialforschung,NA,NA,NA,1,NA,NA,NA
+WBGU,Wissenschaftlicher Beirat Globale Umweltveränderungen,NA,NA,NA,1,NA,NA,NA
+IPCC,Weltklimarat IPCC,NA,NA,NA,1,NA,NA,NA
+PKM,Parlamentkreis Mittelstand,NA,NA,NA,1,NA,NA,NA
+DGS,Deutsche Gesellschaft Soziologie,NA,NA,NA,1,NA,NA,NA
+FHI,Frauennhofer-Institut,NA,NA,NA,1,NA,NA,NA
+PDI,Potsdam-Institut,NA,NA,NA,1,NA,NA,NA
+GZW,Initiative Grüne Zukunft Welzow,NA,NA,NA,1,NA,NA,NA
+LEENRW,Landesverband Erneuerbarer Energien,NA,NA,NA,1,NA,NA,NA
+ÖKI,Öko-Institut,NA,NA,NA,1,NA,NA,NA

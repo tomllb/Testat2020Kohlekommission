@@ -5,6 +5,7 @@
 from: definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine   Sonderzeichen, nur ein Wort <p>
 to: definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc.  <p>
 duration: definiert einen Zeitraum, in dem die Beziehung zwischen zwei Knoten stattgefunden hat oder beobachtet wurde. <p>
+relation: definiert Zuständigkeit in Organisationen: 1=Landesvorsitzender/in, 2=Geschäftsführer/in, 3=Politiker/in, 4=Stellvertretende/r Direktor/in, 5=Präsident/in, 6=Mitglied, 7=Vorstandsmitglied, 8=Bundesvorsitzende/r, 9=Fraktionschef, 10=Mitglied Aufsichtsrat, 11=Direktor/in, 12=Leiter/in, 13=Bundestagsabgeordnete/r <p>
 
 <h2 style="#000080"> Nodelist: </h2>
 
